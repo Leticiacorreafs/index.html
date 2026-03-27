@@ -1,18 +1,27 @@
-## Getting Started
+🌐 Projeto de Site - Bootcamp DIO
+📌 Descrição
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido durante o bootcamp da DIO com o objetivo de praticar conceitos básicos de desenvolvimento web utilizando HTML e CSS.
 
-## Folder Structure
+O site simula uma página simples com estrutura de posts, aplicação de estilos e organização de conteúdo.
 
-The workspace contains two folders by default, where:
+🚀 Tecnologias utilizadas
+HTML5
+CSS3
+💡 Aprendizados
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Durante o desenvolvimento deste projeto, pude praticar:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Estruturação de páginas com HTML
+Estilização com CSS
+Uso de classes e IDs
+Organização de layout
+Boas práticas de escrita de código
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+📚 Sobre o bootcamp
 
-## Dependency Management
+Projeto desenvolvido como parte dos desafios práticos da DIO (Digital Innovation One), com foco em aprendizado e evolução contínua na área de desenvolvimento web.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+✨ Autor
+
+Feito por Letícia Ferreira de Sousa Corrêa
